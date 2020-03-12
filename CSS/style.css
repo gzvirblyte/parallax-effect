@@ -1,0 +1,29 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.wrapper {
+    display: flex;
+    width: 300vw;
+}
+
+.picture {
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100vw;
+    height: 100vh;
+}
+
+.one {
+    background-image: url(../IMG/banana.jpg);
+}
+
+.two {
+    background-image: url(../IMG/coffee.jpg);
+}
+
+.three {
+    background-image: url(../IMG/sugar.jpg);
+}
+
